@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './App.module.css';
-import Form from '../arganisms/form';
+import Form from '../organisms/form';
 import Text from '../atoms/text';
 import { useSelector } from 'react-redux';
 
